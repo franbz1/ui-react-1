@@ -13,3 +13,9 @@
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 450px) {
+  .gpt3__brand div{
+    flex: none;
+  }
+}
